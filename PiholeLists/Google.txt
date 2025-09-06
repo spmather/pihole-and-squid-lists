@@ -1,0 +1,11 @@
+0.0.0.0 google.com
+0.0.0.0 ma-in-f100.1e100.net
+0.0.0.0 ma-in-f101.1e100.net
+0.0.0.0 ma-in-f113.1e100.net
+0.0.0.0 ma-in-f139.1e100.net
+0.0.0.0 mg-in-f100.1e100.net
+0.0.0.0 mg-in-f101.1e100.net
+0.0.0.0 mg-in-f102.1e100.net
+0.0.0.0 mg-in-f113.1e100.net
+0.0.0.0 mg-in-f138.1e100.net
+0.0.0.0 mg-in-f139.1e100.net
