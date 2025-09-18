@@ -1,0 +1,2 @@
+#input a list of undesirable items to search here.  save.  then run fn_listgen.ps1.
+exampleterm
